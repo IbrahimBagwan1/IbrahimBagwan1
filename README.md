@@ -87,5 +87,5 @@ I'm **Ibrahim**, an Intrested learner and developer pursuing **Artificial Intell
 
 ---
 
-<p align="center"><em>✨ "Seeking knowledge is an obligation upon every Person."
+<p align="center"><em>✨ "The most beloved of people to Allah are those who are most beneficial to people."
 — Prophet Muhammad ﷺ</em></p>
