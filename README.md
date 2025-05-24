@@ -65,19 +65,11 @@ I'm **Ibrahim**, an Intrested learner and developer pursuing **Artificial Intell
   - Records unknown calls & classifies scam type with probability
   - Android + Flask integration
 
-- **VKYC Deepfake Detection**
-  - Real-time face and voice deepfake detection
-  - Full-stack system for securing remote KYC verification
-
-- **EV Accessibility App (Design Thinking Lab)**
-  - Prototype to show nearby EV charging stations
-  - Aimed at making electric vehicles more accessible in India
 
 ---
 
 ### 📈 Learning Highlights
 
-- ✅ Solved 30+ LeetCode DSA problems (focused on graphs, DFS, BFS)
 - ✅ Built & trained ML models using scikit-learn and pandas
 - ✅ Practiced numerical ML methods including AdaBoost
 - ✅ Created NLP pipelines for real-world use cases
@@ -88,12 +80,6 @@ I'm **Ibrahim**, an Intrested learner and developer pursuing **Artificial Intell
 ### 📌 Connect With Me
 
 <p align="center">
-  <a href="https://ibrahim-bagwan.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-22272E?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ibrahim-bagwan-9842a1259/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="mailto:ibagwan.ai24@rvce.edu.in">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -101,4 +87,5 @@ I'm **Ibrahim**, an Intrested learner and developer pursuing **Artificial Intell
 
 ---
 
-<p align="center"><em>✨ “The best among you are those who learn and teach.” – Prophet Muhammad ﷺ</em></p>
+<p align="center"><em>✨ "Seeking knowledge is an obligation upon every Person."
+— Prophet Muhammad ﷺ</em></p>
