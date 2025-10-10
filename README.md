@@ -45,10 +45,12 @@ I'm **Ibrahim**, an Intrested learner and developer pursuing **Artificial Intell
 
 ### 🚀 Key Projects
 
-- **Scam Call Detection App**
-  - Detects scams from call transcripts using BERT
-  - Records unknown calls & classifies scam type with probability
-  - Android + Flask integration
+**Fraudulent Call Detection App**
+[🔗 View on GitHub](https://github.com/IbrahimBagwan1/Fraudulent-Call-Detection-and-Prevention-System-for-Mobile-Devices)
+
+- Detects scams from call transcripts using **BERT**
+- Records unknown calls & classifies scam type with **probability scores**
+- Built using **Android (Kotlin)** + **Flask (Python)** integration
 
 
 ---
