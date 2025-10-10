@@ -74,3 +74,7 @@ I'm **Ibrahim**, an Intrested learner and developer pursuing **Artificial Intell
 
 <p align="center"><em>✨ "The most beloved of people to Allah are those who are most beneficial to people."
 — Prophet Muhammad ﷺ</em></p>
+
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IbrahimBagwan1&label=Profile%20views&color=0e75b6&style=flat" alt="IbrahimBagwan1" />
+</p> -->
