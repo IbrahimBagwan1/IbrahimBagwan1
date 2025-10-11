@@ -57,10 +57,10 @@ I'm **Ibrahim**, an Intrested learner and developer pursuing **Artificial Intell
 
 ### 📈 Learning Highlights
 
-- ✅ Built & trained ML models using scikit-learn and pandas
-- ✅ Practiced numerical ML methods including AdaBoost
-- ✅ Created NLP pipelines for real-world use cases
-- ✅ Deployed ML apps using Flask
+- Built & trained ML models using scikit-learn and pandas
+- Practiced numerical ML methods including AdaBoost
+- Created NLP pipelines for real-world use cases
+- Deployed ML apps using Flask
 
 ---
 
