@@ -51,7 +51,7 @@ I'm **Ibrahim**, an Intrested learner and developer pursuing **Artificial Intell
 - Detects scams from call transcripts using **Model**
 - Data Preprocessing of 1 Lakh Scam Calls
 - Records unknown calls & classifies scam type with **probability scores**
-- Built using **Android (Kotlin)** + **ML Model** integration
+- Built using **Android (Kotlin)** + **AI Model** integration
 
 
 ---
