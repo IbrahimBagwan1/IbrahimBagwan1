@@ -49,7 +49,7 @@ I'm **Ibrahim**, an Intrested learner and developer pursuing **Artificial Intell
 [🔗 View on GitHub](https://github.com/IbrahimBagwan1/Fraudulent-Call-Detection-and-Prevention-System-for-Mobile-Devices)
 
 - Detects scams from call transcripts using **BERT Model**
-- Data Preprocessing of 1 Lakh Scam Calls
+- Data Preprocessing of 46k Scam Calls
 - Records unknown calls & classifies scam type with **probability scores**
 - Built using **Android (Kotlin)** + **AI Model** integration
 
