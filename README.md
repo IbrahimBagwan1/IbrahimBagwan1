@@ -33,7 +33,7 @@ I'm **Ibrahim**, an Intrested learner and developer pursuing **Artificial Intell
 - 🧠 **Natural Language Processing**: Transformers, NLTK, spaCy
 - 🔐 **Deepfake Detection for VKYC Security**
 - 📚 **Math for AI**: Linear Algebra, Calculus, Statistics, Numerical Methods, Discrete Math
-- 🧩 **DSA**: Practicing Graphs, Trees, and more on LeetCode
+- 🧩 **DSA**: Practicing Graphs, Trees, and more on LeetCode.
 
 ---
 
