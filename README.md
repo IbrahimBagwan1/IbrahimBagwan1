@@ -1,6 +1,6 @@
 <!-- Profile README.md for Ibrahim Bagwan -->
 <p align="center">
-  <img src="[https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif](https://media.tenor.com/qJ5evVs-_uUAAAAM/coding.gif)" width="200"/>
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAM/coding.gif" width="200"/>
 </p>
 <h1 align="center">Hi, I'm Ibrahim 👋</h1>
 <h3 align="center">AI & ML Learner | Student @ R. V. College of Engineering | Building Intelligent Systems</h3>
